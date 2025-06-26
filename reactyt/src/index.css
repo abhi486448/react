@@ -4,3 +4,14 @@ body{
     background-color: #111;
     color: white;
 }
+
+h1{
+    position: absolute;
+    font-size: 70px;
+    font-weight: 600;
+    text-decoration: underline;
+    top: 50vh;
+    left: 50vw;
+    transform: translate(-50%,-50%);
+    color: #fff;
+}
